@@ -1,0 +1,17 @@
+[package]
+name = "shlog"
+version = "0.1.0"
+authors = ["Triet Trinh <contact@trinhminhtriet.com>"]
+license = "MIT"
+edition = "2018"
+repository = "https://github.com/trinhminhtriet/shlog"
+documentation = "https://trinhminhtriet.com"
+description = "Shlog: A lightweight shell logging tool for tracking and managing command history with easy integration and analysis."
+readme = "README.md"
+keywords = ["shell", "command", "security", "history", "terminal"]
+categories = ["command-line-utilities"]
+
+[dependencies]
+regex = "1.0"
+structopt = "0.2"
+dirs = "1.0"
