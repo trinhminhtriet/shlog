@@ -13,5 +13,5 @@ categories = ["command-line-utilities"]
 
 [dependencies]
 regex = "1.0"
-structopt = "0.2"
+structopt = "0.3"
 dirs = "1.0"
