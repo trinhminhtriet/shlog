@@ -50,7 +50,7 @@ shlog [FLAGS] [OPTIONS]
 ```text
 shlog --help
 
-shlog 0.1.0
+shlog 0.1.1
 Triet Trinh <contact@trinhminhtriet.com>
 A CLI tool for inspecting shell history
 
