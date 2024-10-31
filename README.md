@@ -12,6 +12,8 @@
 
 A lightweight shell logging tool for tracking and managing command history with easy integration and analysis.
 
+![shlog Screenshot](./assets/screenshot.png)
+
 ## ✨ Features
 
 TBD
