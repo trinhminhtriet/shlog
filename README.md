@@ -14,10 +14,6 @@ A lightweight shell logging tool for tracking and managing command history with 
 
 ![shlog Screenshot](./assets/screenshot.png)
 
-## ✨ Features
-
-TBD
-
 ## 🚀 Installation
 
 To install **shlog**, simply clone the repository and follow the instructions below:
