@@ -24,6 +24,7 @@ cd shlog
 
 cargo build --release
 cp ./target/release/shlog /usr/local/bin/
+shlog --version
 ```
 
 Running the below command will globally install the `shlog` binary.
