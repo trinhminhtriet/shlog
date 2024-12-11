@@ -13,8 +13,8 @@ categories = ["command-line-utilities"]
 
 [dependencies]
 regex = "1.11"
-structopt = "0.2"
-dirs = "1.0"
+structopt = "0.3"
+dirs = "5.0"
 
 [profile.release]
 lto = true
